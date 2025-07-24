@@ -8,7 +8,7 @@ I'm a data analyst, currently pursuing an Masters in Computer Science at Texas A
 * Parallel and high-performance computing (HPC)
 
 **Skills**  
-- **Languages:** Python, R, C++, Bash,  
+- **Languages:** Python, R, C++, Bash  
 - **Tools:** Git, Linux, OpenMP, MPI, SLURM  
 - **Domain Expertise:** Mass spectrometry data analysis, bioinformatics pipelines, lab automation with Opentrons
 
