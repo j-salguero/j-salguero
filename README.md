@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Jessica Salguero
+
+I'm a data analyst at Los Alamos National Laboratory, currently pursuing an M.S. in Computer Science at Texas A&M. My background spans bioinformatics, systems biology, and lab automation—and I'm especially passionate about building software tools that integrate science, software, data, and national security.
+
+**Current Focus** 
+* Tools for multi-omic data analysis and clustering  
+* Software systems that support scientific experiments and automation  
+* Parallel and high-performance computing (HPC)
+
+**Skills**  
+- **Languages:** Python, R, C++, Bash,  
+- **Tools:** Git, Linux, OpenMP, MPI, SLURM  
+- **Domain Expertise:** Mass spectrometry data analysis, bioinformatics pipelines, lab automation with Opentrons
 
 <!--
 **j-salguero/j-salguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
