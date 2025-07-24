@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jessica Salguero
 
-I'm a data analyst at Los Alamos National Laboratory, currently pursuing an M.S. in Computer Science at Texas A&M. My background spans bioinformatics, systems biology, and lab automation—and I'm especially passionate about building software tools that integrate science, software, data, and national security.
+I'm a data analyst at Los Alamos National Laboratory, currently pursuing an Masters in Computer Science at Texas A&M. My background spans bioinformatics, systems biology, and lab automation. I'm especially passionate about building software tools that integrate science, data, and national security.
 
 **Current Focus** 
 * Tools for multi-omic data analysis and clustering  
