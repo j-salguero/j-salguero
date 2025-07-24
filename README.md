@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jessica Salguero
 
-I'm a data analyst, currently pursuing an Masters in Computer Science at Texas A&M. My background spans bioinformatics, systems biology, and lab automation. I'm especially passionate about building software tools that integrate science, data, and national security.
+I'm a data analyst, currently pursuing a Masters in Computer Science at Texas A&M. My background spans bioinformatics, systems biology, and lab automation. I'm especially passionate about building software tools that integrate science, data, and national security.
 
 **Current Focus** 
 * Tools for multi-omic data analysis and clustering  
