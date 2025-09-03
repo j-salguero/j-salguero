@@ -12,6 +12,10 @@ I'm a data analyst, currently pursuing a Masters in Computer Science at Texas A&
 - **Tools:** Git, Linux, OpenMP, MPI, SLURM  
 - **Domain Expertise:** Mass spectrometry data analysis, bioinformatics pipelines, lab automation with Opentrons
 
+**Education**
+- B.S. in Computational & Systems Biology (UCLA)
+- M.S. in Biology: Bioinformatics & Genomics (University of Oregon)
+- Master of Computer Science (Texas A&M, Exp. Dec 2026) 
 <!--
 **j-salguero/j-salguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
